@@ -1,5 +1,5 @@
 
-  <h3>✦Özelilkler</h3><br>
+  <h3>✦Özellilkler</h3><br>
   <h5>
  ⏩ Basit  bir kullanıma sahiptir<br>
  ⏩Bilgi vermek amacı ile geliştireln örnek bir sitedir<br>
