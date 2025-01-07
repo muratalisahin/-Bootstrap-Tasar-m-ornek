@@ -6,7 +6,6 @@
  ⏩ Görsel Tasarım dili olarak Bootstrap-html-Css  kullanılmıştır <br>
  ⏩ Google map  eklenerek entegre edildi    <br>
  ⏩ Kayıt ol ile açılır menüde  iletişim bilgileri  eklendi 
- 
 </h5>
 
 ![alt text](bsProje-1.gif)
